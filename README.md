@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manheevak
-- 👀 I’m interested in Web3,DeFi and Cryptocurrency.
-- 🌱 I’m currently learning Solidity
+- 👀 I’m interested in Web Technologyies.
+- 🌱 I’m currently learning Web Development. 
 - 💞️ I’m looking to collaborate on Blockchain projecys
 - 📫 How to reach me - mail me at manheevak@gmail.com / twitter - @Manheevakk
 
